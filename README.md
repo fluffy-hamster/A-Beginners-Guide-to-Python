@@ -5,4 +5,6 @@ This project is intended as a beginers guide for Python, which is currently a wo
 * Juypter Notebook Install help: http://jupyter.readthedocs.io/en/latest/install.html
 * Youtube Vid explaining project: https://www.youtube.com/watch?v=QBZrlRBGi9Y&ytbChannel=Smash_the_hamster
 
-If you wanna help out please visit the 'contribution' file.
+If you wanna help out please visit the 'contributing' file.
+
+If you are unfamiliar with Jupyter notebook you may also want to check out the "install help" lecture.
